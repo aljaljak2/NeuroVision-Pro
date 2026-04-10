@@ -14,6 +14,7 @@ AI-powered brain tumor classification system using MRI scans.
 
 ```bash
 pip install -r requirements.txt
+
 ```
 
 ## Usage
